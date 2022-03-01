@@ -13,7 +13,11 @@ Chapter 4 code_Project_17 The second part 2 of "The Arduino World Book" code_Pro
 -https://www.facebook.com/profile.php?id=100002145048612-
 -https://www.instagram.com/farkadadnan/
 -https://www.linkedin.com/in/farkad-adnan-499972121/
-
+ <p>
+ <a href='https://mobile.twitter.com/farkadadnan'>
+        <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/farkadadnan?label=%40farkadadnan&style=social" alt='Twitter' align="center"/>
+    </a>
+</p>
 
 ![271801785_344374427505649_2176683891817719787_n](https://user-images.githubusercontent.com/35774039/153207660-6489f286-a3e2-4aab-9062-a63ac19385b3.jpg)
 
